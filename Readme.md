@@ -1,6 +1,6 @@
 # EasyMqtt
 
-[EasyMqtt Logo](./doc/easy-mqtt-logo.png)
+![EasyMqtt Logo](./doc/easy-mqtt-logo.png)
 
 A kotlin paho wrapper with easy to use interface.
 
