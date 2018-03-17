@@ -17,6 +17,8 @@ defaultTasks 'test'
 
 group = 'com.github.datenhahn'
 
+mainClassName = "de.datenhahn.easymqtt.EasyMqttKt"
+
 sourceSets {
     main.kotlin.srcDirs += 'src/main'
     test.kotlin.srcDirs += 'src/test'
