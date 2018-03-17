@@ -11,8 +11,11 @@ buildscript {
 
 apply plugin: 'kotlin'
 apply plugin: 'application'
+apply plugin: 'maven'
 
 defaultTasks 'test'
+
+group = 'com.github.datenhahn'
 
 sourceSets {
     main.kotlin.srcDirs += 'src/main'
